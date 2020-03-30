@@ -1,8 +1,6 @@
 '''
 Simple Billing Program
-
 Created on 30/03/2020
-
 @author: Terence
 
 Private repository lab3q1 
