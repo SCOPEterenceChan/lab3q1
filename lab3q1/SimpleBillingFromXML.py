@@ -5,7 +5,7 @@ Created on 30/03/2020
 
 @author: Terence
 
-in Private repository lab3q1 
+Private repository lab3q1 
 '''
 import xmltodict
 import urllib.request
