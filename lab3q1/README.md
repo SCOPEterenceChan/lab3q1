@@ -1,4 +1,5 @@
 # CHK121COMlab3q1SimpleBillingFromXML
+
 Python program to implement a simple billing system. 
 Input data file for the billing system in XML format 
 (http://personal.cityu.edu.hk/~dcywchan/1718SemB121COM/client.xml) 
